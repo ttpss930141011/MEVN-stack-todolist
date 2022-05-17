@@ -21,5 +21,5 @@ Vue3 + tailwind(just setup)
 
 ## Backend
 ```
-Node.js + express + Mongodb Atlas
+Node.js + express + RESTful API + Mongodb Atlas
 ```

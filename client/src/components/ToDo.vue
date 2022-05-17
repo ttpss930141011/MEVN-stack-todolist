@@ -68,7 +68,6 @@ export default {
     methods:{
         async loadTodos (){
             const response = await ToDoAPI.getToDos();
-            console.log(response);
             this.todos = response.data;
         },
         async addTodo(event){

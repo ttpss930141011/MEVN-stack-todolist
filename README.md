@@ -16,7 +16,7 @@ npm start
 
 ## Frontend
 ```
-Vue3 + tailwind(just setup)
+Vue3 + tailwind(just setup) + heroicons
 ```
 
 ## Backend
